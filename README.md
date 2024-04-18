@@ -1,7 +1,3 @@
-### sales_insights_dataAnalysis
-Sales insights datas using data analysis
-
-
 ### Data Analysis Using SQL
 
 1. Show all customer records
